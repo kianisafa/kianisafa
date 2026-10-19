@@ -1,36 +1,40 @@
-<p align="center"><img src="assets/hero.svg" alt="Safa Kiani | Systems Integration and AI Workflow Automation | Technical Product Manager" width="100%" /></p>
+<p align="center"><picture><source media="(max-width: 700px)" srcset="assets/hero-mobile.svg" /><img src="assets/hero.svg" alt="Safa Kiani | Systems Integration and AI Workflow Automation | Technical Product Manager" width="100%" /></picture></p>
 
 <p align="center"><strong>Coquitlam, British Columbia, Canada</strong> · He/Him<br />
 <a href="https://www.linkedin.com/in/kianisafa/">LinkedIn</a> · <a href="https://safakiani.com/">Personal website</a> · <a href="#connect">Work with me</a></p>
 
 <p align="center"><a href="#featured">Featured</a> · <a href="#about">About</a> · <a href="#experience">Experience</a> · <a href="#projects">Projects</a> · <a href="#skills">Skills</a> · <a href="#education">Education</a> · <a href="#licenses-and-certifications">Credentials</a></p>
 
-## Featured
+<a name="featured"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-featured-mobile.svg" /><img src="assets/section-featured.svg" alt="Featured" width="100%" /></picture>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://daneshproduction.ca/"><img src="assets/danesh.svg" alt="Danesh Production | Website Development and Digital Operations" width="100%" /></a>
+<a href="https://daneshproduction.ca/"><picture><source media="(max-width: 700px)" srcset="assets/danesh-mobile.svg" /><img src="assets/danesh.svg" alt="Danesh Production | Website Development and Digital Operations" width="100%" /></picture></a>
 <p>Designed, developed, and launched the Danesh Production website through After Landing Services Inc. Manage hosting, content, SEO, and ongoing technical support, with Google Workspace and Google Voice supporting company communications.</p>
 </td>
 <td width="50%" valign="top">
-<a href="https://kiantebmed.com/"><img src="assets/kian-teb.svg" alt="Kian Teb | E-commerce Development and Digital Operations" width="100%" /></a>
+<a href="https://kiantebmed.com/"><picture><source media="(max-width: 700px)" srcset="assets/kian-teb-mobile.svg" /><img src="assets/kian-teb.svg" alt="Kian Teb | E-commerce Development and Digital Operations" width="100%" /></picture></a>
 <p>Designed and developed Kian Teb's online store. Lead ongoing content, SEO, payment integrations, order workflows, and technical operations remotely from Canada, coordinating digital processes with the fulfilment team in Iran.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://prestiatrade.com/"><img src="assets/prestia.svg" alt="Prestia Trade | Technical Product Management and Website Development" width="100%" /></a>
+<a href="https://prestiatrade.com/"><picture><source media="(max-width: 700px)" srcset="assets/prestia-mobile.svg" /><img src="assets/prestia.svg" alt="Prestia Trade | Technical Product Management and Website Development" width="100%" /></picture></a>
 <p>Guide product requirements, website structure, user journeys, and technical delivery for Prestia Trade's public website. Connect business needs with practical digital improvements, with a focus on usability, reliability, and information quality.</p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/kianisafa"><img src="assets/github.svg" alt="GitHub | Public Code and Development" width="100%" /></a>
+<a href="https://github.com/kianisafa"><picture><source media="(max-width: 700px)" srcset="assets/github-mobile.svg" /><img src="assets/github.svg" alt="GitHub | Public Code and Development" width="100%" /></picture></a>
 <p>Explore my public GitHub profile, including publicly available code, projects, and development work.</p>
 </td>
 </tr>
 </table>
 
-## About
+<a name="about"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-about-mobile.svg" /><img src="assets/section-about.svg" alt="About" width="100%" /></picture>
 
 
 I help businesses connect websites, applications, and day-to-day operations into practical, manageable systems. My focus is systems integration, workflow design, and AI-assisted automation, with close attention to information accuracy and organization.
@@ -49,13 +53,17 @@ I welcome contracts and long-term business collaborations in systems integration
 
 **Top skills:** Systems Integration · Workflow Automation · Product Management · Process Optimization · Web Development
 
-## Experience
+<a name="experience"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-experience-mobile.svg" /><img src="assets/section-experience.svg" alt="Experience" width="100%" /></picture>
 
 Open each role for responsibilities and supporting documents.
 
 
 <details>
-<summary><strong>Prestia Trade LLC | Technical Product Manager (Digital Systems &amp; Workflow Architecture) | October 2026 to Present</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-01-mobile.svg" /><img src="assets/record-01.svg" alt="Prestia Trade LLC | Technical Product Manager (Digital Systems &amp; Workflow Architecture) | October 2026 to Present" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Prestia Trade LLC | Technical Product Manager (Digital Systems &amp; Workflow Architecture) | October 2026 to Present**
 
 **Prestia Trade LLC** · October 2026 to Present  
 Remote
@@ -80,7 +88,9 @@ Employment type: Freelance.
 
 
 <details>
-<summary><strong>Danesh Production | Technical Systems Specialist | September 2024 to Present</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-02-mobile.svg" /><img src="assets/record-02.svg" alt="Danesh Production | Technical Systems Specialist | September 2024 to Present" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Danesh Production | Technical Systems Specialist | September 2024 to Present**
 
 **Danesh Production** · September 2024 to Present  
 Metro Vancouver Regional District, BC
@@ -108,7 +118,9 @@ Location and work setting: Greater Vancouver, British Columbia, Canada (Hybrid).
 
 
 <details>
-<summary><strong>After Landing Services Inc. | Founder &amp; President | December 2022 to Present</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-03-mobile.svg" /><img src="assets/record-03.svg" alt="After Landing Services Inc. | Founder &amp; President | December 2022 to Present" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**After Landing Services Inc. | Founder &amp; President | December 2022 to Present**
 
 **After Landing Services Inc.** · December 2022 to Present  
 Vancouver, BC
@@ -137,7 +149,9 @@ Location and work setting: Vancouver, British Columbia, Canada (On-site).
 
 
 <details>
-<summary><strong>Kiantebmed | Digital Transformation &amp; E-commerce Lead | January 2015 to Present</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-04-mobile.svg" /><img src="assets/record-04.svg" alt="Kiantebmed | Digital Transformation &amp; E-commerce Lead | January 2015 to Present" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Kiantebmed | Digital Transformation &amp; E-commerce Lead | January 2015 to Present**
 
 **Kiantebmed** · January 2015 to Present  
 Canada (Remote)
@@ -160,7 +174,9 @@ Lead digital transformation and e-commerce operations for Kian Teb, a medical eq
 
 
 <details>
-<summary><strong>Prestia Trade LLC | Technical Systems Specialist | February 2024 to September 2026</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-05-mobile.svg" /><img src="assets/record-05.svg" alt="Prestia Trade LLC | Technical Systems Specialist | February 2024 to September 2026" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Prestia Trade LLC | Technical Systems Specialist | February 2024 to September 2026**
 
 **Prestia Trade LLC** · February 2024 to September 2026  
 Remote
@@ -184,7 +200,9 @@ Employment type: Freelance.
 
 
 <details>
-<summary><strong>Pacificana Development | Commercial Construction Apprentice | September 2021 to May 2026</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-06-mobile.svg" /><img src="assets/record-06.svg" alt="Pacificana Development | Commercial Construction Apprentice | September 2021 to May 2026" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Pacificana Development | Commercial Construction Apprentice | September 2021 to May 2026**
 
 **Pacificana Development** · September 2021 to May 2026  
 Vancouver, BC
@@ -213,7 +231,9 @@ Location and work setting: Vancouver, British Columbia, Canada (On-site).
 
 
 <details>
-<summary><strong>Daloun | Marketing Team | October 2024 to December 2024</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-07-mobile.svg" /><img src="assets/record-07.svg" alt="Daloun | Marketing Team | October 2024 to December 2024" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Daloun | Marketing Team | October 2024 to December 2024**
 
 **Daloun** · October 2024 to December 2024  
 Vancouver, BC
@@ -243,7 +263,9 @@ Location and work setting: Vancouver, British Columbia, Canada (On-site).
 
 
 <details>
-<summary><strong>Borna Kelishadi | Professional Photographer | October 2019 to September 2021</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-08-mobile.svg" /><img src="assets/record-08.svg" alt="Borna Kelishadi | Professional Photographer | October 2019 to September 2021" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Borna Kelishadi | Professional Photographer | October 2019 to September 2021**
 
 **Borna Kelishadi** · October 2019 to September 2021  
 Isfahan, Isfahan Province, Iran (On-site)
@@ -264,7 +286,9 @@ Employment type: Freelance.
 
 
 <details>
-<summary><strong>SINA Hospital &amp; Heart Center | Photography &amp; Videography Contributor | October 2019 to September 2021</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-09-mobile.svg" /><img src="assets/record-09.svg" alt="SINA Hospital &amp; Heart Center | Photography &amp; Videography Contributor | October 2019 to September 2021" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**SINA Hospital &amp; Heart Center | Photography &amp; Videography Contributor | October 2019 to September 2021**
 
 **SINA Hospital & Heart Center** · October 2019 to September 2021  
 Isfahan, Isfahan Province, Iran (On-site)
@@ -289,7 +313,9 @@ Employment type: Internship.
 
 
 <details>
-<summary><strong>SINA Hospital &amp; Heart Center | Management &amp; Business Committee Participant | October 2019 to September 2021</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-10-mobile.svg" /><img src="assets/record-10.svg" alt="SINA Hospital &amp; Heart Center | Management &amp; Business Committee Participant | October 2019 to September 2021" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**SINA Hospital &amp; Heart Center | Management &amp; Business Committee Participant | October 2019 to September 2021**
 
 **SINA Hospital & Heart Center** · October 2019 to September 2021  
 Isfahan, Isfahan Province, Iran (On-site)
@@ -314,7 +340,9 @@ Employment type: Internship.
 
 
 <details>
-<summary><strong>SINA Hospital &amp; Heart Center | Information Technology Intern | October 2019 to September 2021</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-11-mobile.svg" /><img src="assets/record-11.svg" alt="SINA Hospital &amp; Heart Center | Information Technology Intern | October 2019 to September 2021" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**SINA Hospital &amp; Heart Center | Information Technology Intern | October 2019 to September 2021**
 
 **SINA Hospital & Heart Center** · October 2019 to September 2021  
 Isfahan, Isfahan Province, Iran (On-site)
@@ -340,7 +368,9 @@ Employment type: Internship.
 
 
 <details>
-<summary><strong>SINA Hospital &amp; Heart Center | Supply Chain Intern | October 2019 to September 2021</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-12-mobile.svg" /><img src="assets/record-12.svg" alt="SINA Hospital &amp; Heart Center | Supply Chain Intern | October 2019 to September 2021" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**SINA Hospital &amp; Heart Center | Supply Chain Intern | October 2019 to September 2021**
 
 **SINA Hospital & Heart Center** · October 2019 to September 2021  
 Isfahan, Isfahan Province, Iran (On-site)
@@ -365,13 +395,17 @@ Employment type: Internship.
 </details>
 
 
-## Projects
+<a name="projects"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-projects-mobile.svg" /><img src="assets/section-projects.svg" alt="Projects" width="100%" /></picture>
 
 Seven project entries from my LinkedIn portfolio. Prestia Trade appears separately in Featured and Experience.
 
 
 <details>
-<summary><strong>Kian Teb | E-commerce Development &amp; Digital Operations</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-13-mobile.svg" /><img src="assets/record-13.svg" alt="Kian Teb | E-commerce Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Kian Teb | E-commerce Development &amp; Digital Operations**
 
 Jan 2015 to Present Designed, developed, and launched Kian Teb's e-commerce website. Continue to manage its content, online sales features, and digital operations remotely from Canada.
 
@@ -396,7 +430,9 @@ Associated with Kiantebmed
 
 
 <details>
-<summary><strong>Disruptive Technologists | Google Ad Grants College Project</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-14-mobile.svg" /><img src="assets/record-14.svg" alt="Disruptive Technologists | Google Ad Grants College Project" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Disruptive Technologists | Google Ad Grants College Project**
 
 Feb 2024 to Apr 2024 Completed a client project for Disruptive Technologists® Inc. as part of the Marketing Technology Diploma at Vancouver Community College (VCC), from February to April 2024.
 
@@ -417,7 +453,9 @@ Associated with Vancouver Community College (VCC)
 
 
 <details>
-<summary><strong>IGWDC | Azar Oil Field Photography &amp; Documentation</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-15-mobile.svg" /><img src="assets/record-15.svg" alt="IGWDC | Azar Oil Field Photography &amp; Documentation" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**IGWDC | Azar Oil Field Photography &amp; Documentation**
 
 Jul 2020 to Jul 2020 Contributed as Second Photographer to the documentation of the Azar Oil Field pipelines and oil installation project in Mehran, Ilam Province, Iran.
 
@@ -436,7 +474,9 @@ Recognition: Received an official letter of appreciation from Iranian Gas & Wate
 
 
 <details>
-<summary><strong>Kian Teb | Store &amp; Product Photography</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-16-mobile.svg" /><img src="assets/record-16.svg" alt="Kian Teb | Store &amp; Product Photography" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Kian Teb | Store &amp; Product Photography**
 
 Oct 2018 to Oct 2018 Created photography and video documentation for Kian Teb's medical equipment store in Isfahan, Iran.
 
@@ -454,7 +494,9 @@ Store overview video: https://www.youtube.com/watch?v=Wdtdxwq6vWQ
 
 
 <details>
-<summary><strong>Danesh Production | Website Development &amp; Digital Operations</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-17-mobile.svg" /><img src="assets/record-17.svg" alt="Danesh Production | Website Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Danesh Production | Website Development &amp; Digital Operations**
 
 Designed, developed, and launched the Danesh Production website. Manage ongoing content, SEO, and technical operations through After Landing Services Inc. as part of a continuing client service plan.
 
@@ -479,7 +521,9 @@ Associated with After Landing Services Inc.
 
 
 <details>
-<summary><strong>Drago Pharma | Website Development &amp; Digital Operations</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-18-mobile.svg" /><img src="assets/record-18.svg" alt="Drago Pharma | Website Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Drago Pharma | Website Development &amp; Digital Operations**
 
 Designed, developed, and launched the Drago Pharma website. Manage ongoing content, SEO, and technical operations through After Landing Services Inc. as part of a continuing client service plan.
 
@@ -503,7 +547,9 @@ Associated with After Landing Services Inc.
 
 
 <details>
-<summary><strong>Rivara Host | Website Development &amp; Digital Operations</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-19-mobile.svg" /><img src="assets/record-19.svg" alt="Rivara Host | Website Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Rivara Host | Website Development &amp; Digital Operations**
 
 Designed, developed, and launched the Rivara Host website for its event, catering, and hospitality services. Manage ongoing digital operations through After Landing Services Inc. as part of a continuing client service plan.
 
@@ -526,13 +572,19 @@ Associated with After Landing Services Inc.
 </details>
 
 
-## Skills
+<a name="skills"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-skills-mobile.svg" /><img src="assets/section-skills.svg" alt="Skills" width="100%" /></picture>
 
 **Systems Integration · Workflow Automation · Product Management · Process Optimization · Web Development**
 
+<p><picture><source media="(max-width: 700px)" srcset="assets/skills-landscape-mobile.svg" /><img src="assets/skills-landscape.svg" alt="Five connected skill pillars: systems integration, workflow automation, product management, process optimization and web development" width="100%" /></picture></p>
+
 
 <details>
-<summary><strong>Explore all 48 skills</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-20-mobile.svg" /><img src="assets/record-20.svg" alt="Explore all 48 skills" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Explore all 48 skills**
 
 **Integration, product and delivery**
 
@@ -563,11 +615,15 @@ Microsoft Word, Microsoft Excel, Microsoft Outlook, Microsoft PowerPoint.
 </details>
 
 
-## Education
+<a name="education"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-education-mobile.svg" /><img src="assets/section-education.svg" alt="Education" width="100%" /></picture>
 
 
 <details>
-<summary><strong>Vancouver Community College (VCC) | Marketing Technology Diploma | January 2023 to December 2024</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-21-mobile.svg" /><img src="assets/record-21.svg" alt="Vancouver Community College (VCC) | Marketing Technology Diploma | January 2023 to December 2024" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Vancouver Community College (VCC) | Marketing Technology Diploma | January 2023 to December 2024**
 
 Completed the two-year, full-time Marketing Technology Diploma at Vancouver Community College on December 16, 2024.
 
@@ -587,7 +643,9 @@ Applied learning: Served as student project manager and team lead on a Google Ad
 
 
 <details>
-<summary><strong>ILSC Education Group | University Pathway Program | September 2021 to September 2022</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-22-mobile.svg" /><img src="assets/record-22.svg" alt="ILSC Education Group | University Pathway Program | September 2021 to September 2022" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**ILSC Education Group | University Pathway Program | September 2021 to September 2022**
 
 Grade: ILSC Advanced 2 (A2)
 
@@ -605,13 +663,17 @@ Completed at ILSC Advanced 2 (A2), with a focus on academic English and preparat
 </details>
 
 
-## Licenses and certifications
+<a name="licenses-and-certifications"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-licenses-and-certifications-mobile.svg" /><img src="assets/section-licenses-and-certifications.svg" alt="Licenses and certifications" width="100%" /></picture>
 
 17 entries, with issuer and validity dates. Historical certificates retain their original expiry dates.
 
 
 <details>
-<summary><strong>Tech Stewardship Practice Program (TSPP) | October 2024</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-23-mobile.svg" /><img src="assets/record-23.svg" alt="Tech Stewardship Practice Program (TSPP) | October 2024" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Tech Stewardship Practice Program (TSPP) | October 2024**
 
 **Issuer:** Tech Stewardship  
 **Issued:** October 2024  
@@ -623,7 +685,9 @@ Completed at ILSC Advanced 2 (A2), with a focus on academic English and preparat
 
 
 <details>
-<summary><strong>Bronze Medallion | February 2026</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-24-mobile.svg" /><img src="assets/record-24.svg" alt="Bronze Medallion | February 2026" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Bronze Medallion | February 2026**
 
 **Issuer:** Lifesaving Society BC & Yukon Branch  
 **Issued:** February 2026
@@ -636,7 +700,9 @@ Bronze Medallion certificate awarded by the Lifesaving Society, British Columbia
 
 
 <details>
-<summary><strong>CancerGuard and Access Life | Continuing Education (1 Hour) | October 2021</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-25-mobile.svg" /><img src="assets/record-25.svg" alt="CancerGuard and Access Life | Continuing Education (1 Hour) | October 2021" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**CancerGuard and Access Life | Continuing Education (1 Hour) | October 2021**
 
 **Issuer:** iA Financial Group (Industrial Alliance)  
 **Issued:** October 2021
@@ -649,7 +715,9 @@ Certificate confirming 1.0 hour of continuing education completed on October 20,
 
 
 <details>
-<summary><strong>Computer Graphics (Skills Certificate) | August 2020</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-26-mobile.svg" /><img src="assets/record-26.svg" alt="Computer Graphics (Skills Certificate) | August 2020" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Computer Graphics (Skills Certificate) | August 2020**
 
 **Issuer:** Ministry of Culture and Islamic Guidance  
 **Issued:** August 2020  
@@ -663,7 +731,9 @@ Official skills certificate issued by the Ministry of Culture and Islamic Guidan
 
 
 <details>
-<summary><strong>Computer Operation (Skills Certificate) | August 2020</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-27-mobile.svg" /><img src="assets/record-27.svg" alt="Computer Operation (Skills Certificate) | August 2020" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Computer Operation (Skills Certificate) | August 2020**
 
 **Issuer:** Ministry of Culture and Islamic Guidance  
 **Issued:** August 2020  
@@ -677,7 +747,9 @@ Official skills certificate issued by the Ministry of Culture and Islamic Guidan
 
 
 <details>
-<summary><strong>Computer Typing (Skills Certificate) | August 2020</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-28-mobile.svg" /><img src="assets/record-28.svg" alt="Computer Typing (Skills Certificate) | August 2020" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Computer Typing (Skills Certificate) | August 2020**
 
 **Issuer:** Ministry of Culture and Islamic Guidance  
 **Issued:** August 2020  
@@ -691,7 +763,9 @@ Official skills certificate issued by the Ministry of Culture and Islamic Guidan
 
 
 <details>
-<summary><strong>Colour Graphic Design (Skills Certificate) | August 2020</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-29-mobile.svg" /><img src="assets/record-29.svg" alt="Colour Graphic Design (Skills Certificate) | August 2020" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Colour Graphic Design (Skills Certificate) | August 2020**
 
 **Issuer:** Ministry of Culture and Islamic Guidance  
 **Issued:** August 2020  
@@ -705,7 +779,9 @@ Official skills certificate issued by the Ministry of Culture and Islamic Guidan
 
 
 <details>
-<summary><strong>Black and White Graphic Design (Skills Certificate) | September 2020</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-30-mobile.svg" /><img src="assets/record-30.svg" alt="Black and White Graphic Design (Skills Certificate) | September 2020" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Black and White Graphic Design (Skills Certificate) | September 2020**
 
 **Issuer:** Ministry of Culture and Islamic Guidance  
 **Issued:** September 2020  
@@ -719,7 +795,9 @@ Official skills certificate issued by the Ministry of Culture and Islamic Guidan
 
 
 <details>
-<summary><strong>Real Estate Consultancy | 60-Hour Training Attendance Certificate | June 2021</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-31-mobile.svg" /><img src="assets/record-31.svg" alt="Real Estate Consultancy | 60-Hour Training Attendance Certificate | June 2021" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Real Estate Consultancy | 60-Hour Training Attendance Certificate | June 2021**
 
 **Issuer:** Iran Technical & Vocational Training Organization  
 **Issued:** June 2021
@@ -732,7 +810,9 @@ Certificate confirming attendance at 60 hours of specialized real estate consult
 
 
 <details>
-<summary><strong>Google Ads Search Certification | November 2025</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-32-mobile.svg" /><img src="assets/record-32.svg" alt="Google Ads Search Certification | November 2025" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Google Ads Search Certification | November 2025**
 
 **Issuer:** Google Digital Academy (Skillshop)  
 **Issued:** November 2025  
@@ -745,7 +825,9 @@ Certificate confirming attendance at 60 hours of specialized real estate consult
 
 
 <details>
-<summary><strong>Inbound Marketing | October 2024</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-33-mobile.svg" /><img src="assets/record-33.svg" alt="Inbound Marketing | October 2024" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Inbound Marketing | October 2024**
 
 **Issuer:** HubSpot Academy  
 **Issued:** October 2024  
@@ -758,7 +840,9 @@ Certificate confirming attendance at 60 hours of specialized real estate consult
 
 
 <details>
-<summary><strong>Content Marketing | October 2024</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-34-mobile.svg" /><img src="assets/record-34.svg" alt="Content Marketing | October 2024" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Content Marketing | October 2024**
 
 **Issuer:** HubSpot Academy  
 **Issued:** October 2024  
@@ -771,7 +855,9 @@ Certificate confirming attendance at 60 hours of specialized real estate consult
 
 
 <details>
-<summary><strong>Email Marketing | October 2024</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-35-mobile.svg" /><img src="assets/record-35.svg" alt="Email Marketing | October 2024" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Email Marketing | October 2024**
 
 **Issuer:** HubSpot Academy  
 **Issued:** October 2024  
@@ -784,7 +870,9 @@ Certificate confirming attendance at 60 hours of specialized real estate consult
 
 
 <details>
-<summary><strong>Social Media Marketing | October 2024</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-36-mobile.svg" /><img src="assets/record-36.svg" alt="Social Media Marketing | October 2024" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Social Media Marketing | October 2024**
 
 **Issuer:** HubSpot Academy  
 **Issued:** October 2024  
@@ -797,7 +885,9 @@ Certificate confirming attendance at 60 hours of specialized real estate consult
 
 
 <details>
-<summary><strong>HubSpot Marketing Hub Software | October 2024 | expired October 2025</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-37-mobile.svg" /><img src="assets/record-37.svg" alt="HubSpot Marketing Hub Software | October 2024 | expired October 2025" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**HubSpot Marketing Hub Software | October 2024 | expired October 2025**
 
 **Issuer:** HubSpot Academy  
 **Issued:** October 2024  
@@ -810,7 +900,9 @@ Certificate confirming attendance at 60 hours of specialized real estate consult
 
 
 <details>
-<summary><strong>Google Ads Search Certification | January 2024 | expired January 2025</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-38-mobile.svg" /><img src="assets/record-38.svg" alt="Google Ads Search Certification | January 2024 | expired January 2025" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Google Ads Search Certification | January 2024 | expired January 2025**
 
 **Issuer:** Google Digital Academy (Skillshop)  
 **Issued:** January 2024  
@@ -823,7 +915,9 @@ Certificate confirming attendance at 60 hours of specialized real estate consult
 
 
 <details>
-<summary><strong>Google Ads Measurement Certification | January 2024 | expired January 2025</strong></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-39-mobile.svg" /><img src="assets/record-39.svg" alt="Google Ads Measurement Certification | January 2024 | expired January 2025" width="100%" /></picture> <sub>Open details</sub></summary>
+
+**Google Ads Measurement Certification | January 2024 | expired January 2025**
 
 **Issuer:** Google Digital Academy (Skillshop)  
 **Issued:** January 2024  
@@ -835,7 +929,9 @@ Certificate confirming attendance at 60 hours of specialized real estate consult
 </details>
 
 
-## Volunteering
+<a name="volunteering"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-volunteering-mobile.svg" /><img src="assets/section-volunteering.svg" alt="Volunteering" width="100%" /></picture>
 
 ### Student Ambassador
 
@@ -857,12 +953,16 @@ Recognition: Received a Student Ambassador Certificate of Achievement from ILSC.
 
 [View Certificate of Achievement](documents/ilsc-student-ambassador.pdf)
 
-## Courses
+<a name="courses"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-courses-mobile.svg" /><img src="assets/section-courses.svg" alt="Courses" width="100%" /></picture>
 
 - **Academic Preparation | Advanced 2**, associated with ILSC Education Group.
 - **Financial Services Training | World Financial Group (WFG)**.
 
-## Honors and awards
+<a name="honors-and-awards"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-honors-and-awards-mobile.svg" /><img src="assets/section-honors-and-awards.svg" alt="Honors and awards" width="100%" /></picture>
 
 ### Award of Appreciation: Azar Oil Field Photography & Documentation
 
@@ -874,7 +974,9 @@ The letter recognizes my photography and documentation work, cooperation with th
 
 [View award letter](documents/igwdc-appreciation.pdf)
 
-## Recommendations
+<a name="recommendations"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-recommendations-mobile.svg" /><img src="assets/section-recommendations.svg" alt="Recommendations" width="100%" /></picture>
 
 Five received recommendations on LinkedIn. The notes below summarize their focus; the original wording and authorship remain available on LinkedIn.
 
@@ -888,18 +990,26 @@ Five received recommendations on LinkedIn. The notes below summarize their focus
 
 [Read all five original recommendations](https://www.linkedin.com/in/kianisafa/details/recommendations/)
 
-## Languages
+<a name="languages"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-languages-mobile.svg" /><img src="assets/section-languages.svg" alt="Languages" width="100%" /></picture>
 
 - **English:** Professional working proficiency.
 - **Persian:** Native or bilingual proficiency.
 
-## Documents
+<a name="documents"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-documents-mobile.svg" /><img src="assets/section-documents.svg" alt="Documents" width="100%" /></picture>
 
 [Browse certificates, education records, and recognition letters](documents/README.md).
 
-## Connect
+<a name="connect"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/section-connect-mobile.svg" /><img src="assets/section-connect.svg" alt="Connect" width="100%" /></picture>
 
 I welcome contracts and long-term business collaborations in systems integration, workflow automation, and digital operations, as well as relevant product and systems roles.
+
+<a href="https://www.linkedin.com/in/kianisafa/"><picture><source media="(max-width: 700px)" srcset="assets/connect-portal-mobile.svg" /><img src="assets/connect-portal.svg" alt="Open to collaboration. Connect with Safa Kiani on LinkedIn." width="100%" /></picture></a>
 
 **[Connect on LinkedIn](https://www.linkedin.com/in/kianisafa/)** · **[Visit safakiani.com](https://safakiani.com/)**
 
