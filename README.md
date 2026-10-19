@@ -1,89 +1,58 @@
-# 👋 Welcome to My GitHub Profile!
+# Safa Kiani
 
-## About Me
+**Systems Integration & AI Workflow Automation | Technical Product Manager**
 
-👋 Hi, I'm **Safa Kiani**
+[LinkedIn](https://www.linkedin.com/in/kianisafa/) · [Personal website](https://safakiani.com/)
 
-👀 I’m interested in **computer systems, web development, and marketing technology**
+I build and connect websites, business applications, and day-to-day operations into practical, manageable systems. My focus is systems integration, workflow design, and AI-assisted automation, with attention to information accuracy, reliability, and clear coordination.
 
-🌱 Currently learning **Marketing Technology** at Vancouver Community College
+Based in Coquitlam, British Columbia, Canada. Open to contracts and long-term business collaborations, as well as relevant product and systems roles.
 
-💼 System Administrator at **Kiantebmed**
+## What I work on
 
-🎓 Completed an internship in **Information Technology** at **SINA Heart Hospital and Center**
+- **Systems integration:** Connecting websites, CRM workflows, business communications, and operational processes.
+- **Workflow automation and AI:** Developing integrations and automation to reduce repetitive work and support consistent information flows.
+- **Web development and e-commerce:** Server and hosting setup, website development, content, SEO, payment integrations, and order workflows.
+- **Technical product management:** Translating business needs into requirements, workflow architecture, priorities, and coordinated delivery.
+- **Business communication systems:** Google Workspace administration and Google Voice for company email and phone services.
 
-📍 Based in **Coquitlam, British Columbia, Canada**
+## Selected public work
 
-😄 Pronouns: **SAFA**
+| Project | My contribution |
+| --- | --- |
+| [Danesh Production](https://daneshproduction.ca/) | Website development, server setup, content, SEO, and ongoing digital operations through After Landing Services Inc. Developed a shift management application for team scheduling and payment tracking, and administer Google Workspace and Google Voice. |
+| [Kian Teb](https://kiantebmed.com/) | Designed and developed the online store. Lead content creation, product launches, landing pages, SEO, payments, and order workflows remotely from Canada, coordinating with the fulfilment team in Iran. |
+| [Prestia Trade](https://prestiatrade.com/) | Guide product requirements, website structure, user journeys, and technical delivery for the public website, with a focus on usability, reliability, and information quality. |
+| [Drago Pharma](https://dragopharma.com/) | Website development, server setup, product content, landing pages, SEO, maintenance, and continuing client support through After Landing Services Inc. |
+| [Rivara Host](https://rivarahost.ca/) | Website development, server setup, service content, SEO, Google Workspace, maintenance, and continuing client support through After Landing Services Inc. |
 
-⚡ Fun fact: **I'm a workaholic!**
+Across these projects, I am working on AI integrations and workflow automation as part of ongoing development.
 
----
+## Experience
 
-## Areas of Expertise
+| Role | Organization | Dates |
+| --- | --- | --- |
+| Technical Product Manager (Digital Systems & Workflow Architecture) | Prestia Trade LLC | October 2026 to present |
+| Technical Systems Specialist | Danesh Production | September 2024 to present |
+| Founder & President | After Landing Services Inc. | December 2022 to present |
+| Digital Transformation & E-commerce Lead | Kiantebmed | January 2015 to present |
 
-- 🖥️ **System Administration**: POS devices, accounting systems, internal networks, security systems, customer management systems
-- 🌐 **Web Development**: Developing and maintaining websites and software to enhance online sales
-- 🔧 **Technical Proficiency**: Problem-solving, IT support, troubleshooting, cybersecurity measures
-- 🤝 **Cross-Functional Collaboration**: Integrating computer systems with other organizational functions
-- 🛠️ **Customer Experience**: Improving customer loyalty and satisfaction through seamless online experiences
-- 🌍 **Remote Work**: Successfully managing systems remotely after immigrating to Canada
+<details>
+<summary>Earlier experience</summary>
 
----
+- **Technical Systems Specialist, Prestia Trade LLC:** February 2024 to September 2026. Website infrastructure, technical systems, CRM structures, and workflow coordination.
+- **Commercial Construction Apprentice, Pacificana Development:** September 2021 to May 2026. Apprenticeship experience in commercial construction, site operations, teamwork, and project coordination.
+- **Marketing Team, Daloun:** October 2024 to December 2024. Lead organization, outreach coordination, and marketing workflows.
+- **SINA Hospital & Heart Center:** October 2019 to September 2021. Internships in information technology and supply chain, with management and business committee participation and photography and videography contributions as part of hospital responsibilities.
+- **Professional Photographer, Borna Kelishadi:** October 2019 to September 2021. Project-based commercial photography.
 
-## Core Competencies
+</details>
 
-- ✅ System Administration
-- ✅ Web Development
-- ✅ Software Maintenance
-- ✅ Remote Work Adaptability
-- ✅ Technical Proficiency
-- ✅ Problem-Solving
-- ✅ Cross-Functional Collaboration
-- ✅ IT Support and Troubleshooting
+## Education
 
----
+- **Marketing Technology Diploma**, Vancouver Community College (VCC). Completed December 2024.
+- **University Pathway Program, English Language**, ILSC Education Group. Completed September 2022 at ILSC Advanced 2 (A2).
 
-## Professional Experience
+## Connect
 
-### Kiantebmed (Nov 2017 – Present)
-**System Administrator**
-
-- Managed all computer systems, ensuring optimal performance and smooth operation
-- Developed and maintained the website, driving significant increases in online sales
-- Worked remotely after immigrating to Canada, maintaining oversight of systems
-- Collaborated with cross-functional teams to integrate systems with other organizational functions
-
-### SINA Heart Hospital & Center (Oct 2019 – Sep 2021)
-**Information Technology Department**
-
-- Completed a two-year internship, gaining expertise in maintaining and troubleshooting computer systems
-- Ensured uninterrupted operations and robust cybersecurity measures
-- Collaborated closely with the IT team, enhancing departmental processes
-
-### Pacificana Development (Sep 2021 – Present)
-**Apprenticeship**
-
-- Developed expertise in building painting, contributing to successful projects for renowned brands
-- Demonstrated exceptional efficiency and precision in meeting project deadlines
-
----
-
-## Contact 📞
-
-- **Name**: Safa Kiani
-- **Website**: [safakiani.com](https://safakiani.com/)
-- **Instagram**: [@kianisafa](https://www.instagram.com/kianisafa/)
-- **Telegram**: [@kianisafa](https://t.me/+12363343330)
-- **LinkedIn**: [Safa Kiani](https://www.linkedin.com/in/kianisafa/)
-- **Email**: kianisafaa@gmail.com
-
----
-
-## Connect with Me
-
-![GitHub followers](https://img.shields.io/github/followers/kianisafa?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/kianisafa?style=social)
-
----
-
-**Thank you for visiting my profile! Let's connect and create innovative tech solutions together!**
+For project enquiries and professional collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/kianisafa/). More about my work is available at [safakiani.com](https://safakiani.com/).
