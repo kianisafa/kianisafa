@@ -1,0 +1,7 @@
+[
+  {"id":"DEMO-101","contactEmail":"customer101@example.test","items":[{"sku":"SAMPLE-A","quantity":2}],"fulfilment":"delivery","city":"Sample City","paymentStatus":"paid","paymentReference":"SYNTHETIC-PAY-101"},
+  {"id":"DEMO-102","contactEmail":"customer102@example.test","items":[{"sku":"SAMPLE-B","quantity":1}],"fulfilment":"delivery","city":"","paymentStatus":"paid","paymentReference":""},
+  {"id":"DEMO-103","contactEmail":"customer103@example.test","items":[{"sku":"SAMPLE-C","quantity":1}],"fulfilment":"pickup","paymentStatus":"pending"},
+  {"id":"DEMO-104","contactEmail":"customer104@example.test","items":[{"sku":"SAMPLE-D","quantity":1}],"fulfilment":"pickup","paymentStatus":"paid","paymentReference":"SYNTHETIC-PAY-104"},
+  {"id":"demo-104","contactEmail":"customer104@example.test","items":[{"sku":"SAMPLE-D","quantity":1}],"fulfilment":"pickup","paymentStatus":"paid","paymentReference":"SYNTHETIC-PAY-104"}
+]

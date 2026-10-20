@@ -41,11 +41,26 @@
 
 <a href="#workflow-demos"><picture><source media="(max-width: 700px)" srcset="assets/lab/control-room-mobile.svg" /><img src="assets/lab/control-room.svg" alt="Systems Lab | Explore a conceptual control room" width="100%" /></picture></a>
 
-Explore a conceptual model of connected websites, information, workflows, people and operations. The demonstrations below use fictional records. They do not reproduce client systems or connect to an AI service.
+Explore a conceptual model of connected websites, information, workflows, people and operations. The working example and animated illustrations below use fictional records. They do not reproduce client systems or connect to an AI service.
 
 <a name="workflow-demos"></a>
 
-### Workflow demonstrations
+### Working example: Order Workflow
+
+<a href="demos/order-workflow/"><picture><source media="(max-width: 700px)" srcset="assets/studio/order-workflow-mobile.svg" /><img src="assets/studio/order-workflow.svg" alt="Order Workflow | A runnable, independent example with fictional orders" width="100%" /></picture></a>
+
+An independent example that checks required fields, flags duplicate order IDs and prepares follow-up tasks. Explore a mixed sample, edit fictional inputs and export a task report. The rules run locally and do not connect to client systems or an AI service.
+
+**[Explore the working example](demos/order-workflow/)** · [Read the processing logic](demos/order-workflow/engine.js) · [View the tests](demos/order-workflow/engine.test.js)
+
+<details>
+<summary>Run it locally</summary>
+
+Download [index.html](demos/order-workflow/index.html) using GitHub's download button, then open it in your browser. The file is self-contained and needs no installation. GitHub shows the source rather than executing it inside this page.
+
+</details>
+
+### Animated workflow illustrations
 
 Open a demonstration below to view its animated sequence.
 
@@ -131,7 +146,7 @@ I support businesses with clearly scoped projects and continuing service arrange
 
 ## <picture><source media="(max-width: 700px)" srcset="assets/studio/section-case-studies-mobile.svg" /><img src="assets/studio/section-case-studies.svg" alt="Selected case studies" width="100%" /></picture>
 
-A closer look at selected public work. The illustrations are conceptual and do not reproduce client systems or internal interfaces.
+A closer look at selected public work. The SVG illustrations are conceptual. Expand the public website views to see selected delivered pages; private interfaces are excluded.
 
 <a name="case-danesh"></a>
 
@@ -146,6 +161,15 @@ A closer look at selected public work. The illustrations are conceptual and do n
 **Engagement:** Continuing client support.
 
 [Visit the public website](https://daneshproduction.ca/)
+
+<details>
+<summary>View the public website</summary>
+
+[![Public homepage of Danesh Production](assets/evidence/danesh-public-homepage.webp)](https://daneshproduction.ca/)
+
+Public homepage captured October 19, 2026. This shows the website experience; the contribution above describes my role.
+
+</details>
 
 <a name="case-kian-teb"></a>
 
@@ -174,6 +198,15 @@ A closer look at selected public work. The illustrations are conceptual and do n
 **Engagement:** Ongoing public website and product work.
 
 [Visit the public website](https://prestiatrade.com/)
+
+<details>
+<summary>View the public website</summary>
+
+[![Public homepage of Prestia Trade](assets/evidence/prestia-public-homepage.webp)](https://prestiatrade.com/)
+
+Public homepage captured October 19, 2026. This shows the website experience; the contribution above describes my role.
+
+</details>
 
 <a name="experience"></a>
 
