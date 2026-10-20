@@ -3,7 +3,7 @@
 <p align="center"><strong>Coquitlam, British Columbia, Canada</strong> · He/Him<br />
 <a href="https://www.linkedin.com/in/kianisafa/">LinkedIn</a> · <a href="https://safakiani.com/">Personal website</a> · <a href="#services">Work with me</a></p>
 
-<p align="center"><a href="#featured">Featured</a> · <a href="#services">Services</a> · <a href="#case-studies">Case studies</a> · <a href="#skill-evidence">Skill to practice</a> · <a href="#about">About</a> · <a href="#experience">Experience</a> · <a href="#projects">Projects</a> · <a href="#skills">Skills</a> · <a href="#education">Education</a> · <a href="#licenses-and-certifications">Credentials</a></p>
+<p align="center"><a href="#featured">Featured</a> · <a href="#services">Services</a> · <a href="#case-studies">Case studies</a> · <a href="#skill-evidence">Full lifecycle delivery</a> · <a href="#about">About</a> · <a href="#experience">Experience</a> · <a href="#projects">Projects</a> · <a href="#skills">Skills</a> · <a href="#education">Education</a> · <a href="#licenses-and-certifications">Credentials</a></p>
 
 <a name="featured"></a>
 
@@ -25,7 +25,7 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://prestiatrade.com/"><picture><source media="(max-width: 700px)" srcset="assets/studio/featured-prestia-mobile.svg" /><img src="assets/studio/featured-prestia.svg" alt="Prestia Trade | Technical Product Management and Website Development" width="100%" /></picture></a>
-<p>Guide product requirements, website structure, user journeys, and technical delivery for Prestia Trade's public website. Connect business needs with practical digital improvements, with a focus on usability, reliability, and information quality.</p>
+<p>Combine technical product management with hands-on delivery of Prestia Trade's public website, from requirements, infrastructure and design to development, content, launch and ongoing improvements. Focus on usability, reliability and information quality.</p>
 <p><a href="#case-prestia">Read case study</a></p>
 </td>
 <td width="50%" valign="top">
@@ -40,7 +40,7 @@
 ## <picture><source media="(max-width: 700px)" srcset="assets/section-about-mobile.svg" /><img src="assets/section-about.svg" alt="About" width="100%" /></picture>
 
 
-I help businesses connect websites, applications, and day-to-day operations into practical, manageable systems. My focus is systems integration, workflow design, and AI-assisted automation, with close attention to information accuracy and organization.
+I take hands-on responsibility for the full website lifecycle, from business consultation, requirements and server procurement to design, development, content, deployment and ongoing operation. I connect this work with business systems and workflows, with a focus on systems integration, AI-assisted automation and information accuracy.
 
 
 Based in Metro Vancouver, I founded After Landing Services Inc. and deliver website development and continuing digital support for clients including Danesh Production, Drago Pharma, and Rivara Host. My work spans server setup, development, content, SEO, CRM workflows, and business communication systems. At Danesh, I also developed a shift management application for team scheduling and payment tracking.
@@ -98,7 +98,7 @@ A closer look at selected public work. The SVG illustrations are conceptual. Exp
 
 **Challenge:** Establish a public website and maintain the digital services supporting an event production business.
 
-**My contribution:** Designed, developed and launched the website, including server and hosting setup. Continue to manage content, SEO and technical support through After Landing Services Inc. Set up and administer Google Workspace and Google Voice for company communications.
+**My contribution:** Personally handled consultation, server selection and procurement, infrastructure setup, website design and development, content publishing and launch. Continue to manage SEO, maintenance and technical support through After Landing Services Inc. Set up and administer Google Workspace and Google Voice, and developed the team's shift scheduling and payment tracking application.
 
 **Delivery:** A launched website with continuing technical maintenance, content improvements and communications administration.
 
@@ -121,7 +121,7 @@ Public homepage captured October 19, 2026. This shows the website experience; th
 
 **Challenge:** Bring the online shopping journey, payment features and order processes together while coordinating digital operations remotely.
 
-**My contribution:** Designed and developed the storefront and manage product content, landing pages, SEO, payment integrations and order workflows. Coordinate digital processes from Canada with the team in Iran responsible for packaging and dispatch.
+**My contribution:** Personally handled the storefront lifecycle, from requirements, server selection and setup through design, development and launch. Manage product content, landing pages, SEO, payment integrations, order workflows and ongoing maintenance. Coordinate digital processes from Canada with the team in Iran responsible for packaging and dispatch.
 
 **Delivery:** An operating online store with ongoing content, product launch support, checkout improvements and technical maintenance.
 
@@ -135,9 +135,9 @@ Public homepage captured October 19, 2026. This shows the website experience; th
 
 **Challenge:** Translate business needs into a clear, usable public website and actionable product work.
 
-**My contribution:** Guide requirements, website structure, user journeys and technical delivery as Technical Product Manager, with attention to usability, reliability and information quality.
+**My contribution:** Combine technical product management with hands-on responsibility for the public website lifecycle: consultation and requirements, server selection and setup, design, development, content publishing, launch and ongoing improvements. Connect business needs, user journeys and technical implementation.
 
-**Delivery:** Product requirements, website planning and coordinated technical delivery focused on prestiatrade.com.
+**Delivery:** Public website development and continuing operation of prestiatrade.com, alongside product requirements and delivery planning.
 
 **Engagement:** Ongoing public website and product work.
 
@@ -621,18 +621,23 @@ Associated with After Landing Services Inc.
 
 <a name="skill-evidence"></a>
 
-## Skill to practice
+## Full lifecycle website and digital systems delivery
 
-<picture><source media="(max-width: 700px)" srcset="assets/lab/skill-evidence-mobile.svg" /><img src="assets/lab/skill-evidence.svg" alt="Capabilities mapped to confirmed responsibilities and public work" width="100%" /></picture>
+<picture><source media="(max-width: 700px)" srcset="assets/lab/skill-evidence-mobile.svg" /><img src="assets/lab/skill-evidence.svg" alt="Personal responsibility for the complete website lifecycle across Kian Teb, Danesh Production, Prestia Trade, Drago Pharma and Rivara Host" width="100%" /></picture>
 
-| Capability | Where I apply it | Read the contribution |
-| --- | --- | --- |
-| Web Development | Kian Teb and Danesh Production | [Kian Teb](#case-kian-teb) · [Danesh Production](#case-danesh) |
-| Systems Integration | Danesh Production | [Website, communications and digital operations](#case-danesh) |
-| Product Management | Prestia Trade | [Public website requirements and delivery](#case-prestia) |
-| SEO and Content | Kian Teb, Drago Pharma and Rivara Host | [Project responsibilities](#projects) |
+Across these websites, I personally handle the work from the initial business brief through launch and ongoing operation. My responsibilities span consultation and requirements, server selection and procurement, infrastructure setup, design and development, content publishing, SEO, system integrations and continuing technical support.
 
-The public websites show selected deliverables. The linked descriptions explain my responsibilities.
+The services form one connected delivery responsibility. The emphasis varies with each business:
+
+| Website | Additional project focus |
+| --- | --- |
+| [Kian Teb](https://kiantebmed.com/) | E-commerce, payments, product content and order workflows. [Read more](#case-kian-teb) |
+| [Danesh Production](https://daneshproduction.ca/) | Google Workspace, Google Voice, CRM workflows, team scheduling and payment tracking. [Read more](#case-danesh) |
+| [Prestia Trade](https://prestiatrade.com/) | Technical product management, requirements, user journeys and information quality for the public website. [Read more](#case-prestia) |
+| [Drago Pharma](https://dragopharma.com/) | Content, SEO, analytics and continuing client support through After Landing Services Inc. |
+| [Rivara Host](https://rivarahost.ca/) | Google Workspace, content, SEO, analytics and continuing client support through After Landing Services Inc. |
+
+I am also working on AI integrations and workflow automation across these projects. The public websites show selected deliverables; the descriptions above identify my contribution.
 
 <a name="skills"></a>
 
@@ -1079,3 +1084,4 @@ I welcome contracts and long-term business collaborations in systems integration
 One-time payments through Square. Enter the agreed amount and add a payment reference or invoice number at checkout.
 
 [Activity and professional interests on LinkedIn](https://www.linkedin.com/in/kianisafa/)
+
