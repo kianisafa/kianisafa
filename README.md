@@ -3,7 +3,7 @@
 <p align="center"><strong>Coquitlam, British Columbia, Canada</strong> · He/Him<br />
 <a href="https://www.linkedin.com/in/kianisafa/">LinkedIn</a> · <a href="https://safakiani.com/">Personal website</a> · <a href="#services">Work with me</a></p>
 
-<p align="center"><a href="#featured">Featured</a> · <a href="#services">Services</a> · <a href="#case-studies">Case studies</a> · <a href="#systems-lab">Systems Lab</a> · <a href="#skill-evidence">Skill to practice</a> · <a href="#about">About</a> · <a href="#experience">Experience</a> · <a href="#projects">Projects</a> · <a href="#skills">Skills</a> · <a href="#education">Education</a> · <a href="#licenses-and-certifications">Credentials</a></p>
+<p align="center"><a href="#featured">Featured</a> · <a href="#services">Services</a> · <a href="#case-studies">Case studies</a> · <a href="#skill-evidence">Skill to practice</a> · <a href="#about">About</a> · <a href="#experience">Experience</a> · <a href="#projects">Projects</a> · <a href="#skills">Skills</a> · <a href="#education">Education</a> · <a href="#licenses-and-certifications">Credentials</a></p>
 
 <a name="featured"></a>
 
@@ -34,47 +34,6 @@
 </td>
 </tr>
 </table>
-
-<a name="systems-lab"></a>
-
-## Systems Lab
-
-<a href="#workflow-demos"><picture><source media="(max-width: 700px)" srcset="assets/lab/control-room-mobile.svg" /><img src="assets/lab/control-room.svg" alt="Systems Lab | Explore a conceptual control room" width="100%" /></picture></a>
-
-Explore a conceptual model of connected websites, information, workflows, people and operations. The animated illustrations below use fictional records. They do not reproduce client systems or connect to an AI service.
-
-<a name="workflow-demos"></a>
-
-### Animated workflow illustrations
-
-Open a demonstration below to view its animated sequence.
-
-<details>
-<summary><strong>Order coordination</strong> | Synthetic example</summary>
-
-<picture><source media="(max-width: 700px)" srcset="assets/lab/demo-order-mobile.svg" /><img src="assets/lab/demo-order.svg" alt="Order coordination | Illustrative workflow using synthetic data" width="100%" /></picture>
-
-A fictional order becomes a handoff. This is an illustrative sequence, separate from client work.
-
-</details>
-
-<details>
-<summary><strong>Content publishing</strong> | Synthetic example</summary>
-
-<picture><source media="(max-width: 700px)" srcset="assets/lab/demo-content-mobile.svg" /><img src="assets/lab/demo-content.svg" alt="Content publishing | Illustrative workflow using synthetic data" width="100%" /></picture>
-
-A fictional brief becomes a reviewed draft. This is an illustrative sequence, separate from client work.
-
-</details>
-
-<details>
-<summary><strong>Client inquiry</strong> | Synthetic example</summary>
-
-<picture><source media="(max-width: 700px)" srcset="assets/lab/demo-inquiry-mobile.svg" /><img src="assets/lab/demo-inquiry.svg" alt="Client inquiry | Illustrative workflow using synthetic data" width="100%" /></picture>
-
-A fictional inquiry becomes a clear next step. This is an illustrative sequence, separate from client work.
-
-</details>
 
 <a name="about"></a>
 
@@ -725,7 +684,7 @@ Associated with After Landing Services Inc.
 | Product Management | Prestia Trade | [Public website requirements and delivery](#case-prestia) |
 | SEO and Content | Kian Teb, Drago Pharma and Rivara Host | [Project responsibilities](#projects) |
 
-The public websites show selected deliverables. The linked descriptions explain my responsibilities. [Explore illustrative automation examples](#workflow-demos) separately in the Systems Lab.
+The public websites show selected deliverables. The linked descriptions explain my responsibilities.
 
 <a name="skills"></a>
 
