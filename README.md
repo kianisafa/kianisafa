@@ -47,14 +47,14 @@ Explore a conceptual model of connected websites, information, workflows, people
 
 ### Workflow demonstrations
 
-Open a demonstration below. The [interactive companion source](interactive-lab/README.md) includes a rotatable model and a review checkpoint for incomplete inputs, and can be run locally.
+Open a demonstration below to view its animated sequence.
 
 <details>
 <summary><strong>Order coordination</strong> | Synthetic example</summary>
 
 <picture><source media="(max-width: 700px)" srcset="assets/lab/demo-order-mobile.svg" /><img src="assets/lab/demo-order.svg" alt="Order coordination | Illustrative workflow using synthetic data" width="100%" /></picture>
 
-A fictional order becomes a handoff. This is an illustrative sequence, separate from client work. [Explore the interactive companion source](interactive-lab/README.md).
+A fictional order becomes a handoff. This is an illustrative sequence, separate from client work.
 
 </details>
 
@@ -63,7 +63,7 @@ A fictional order becomes a handoff. This is an illustrative sequence, separate 
 
 <picture><source media="(max-width: 700px)" srcset="assets/lab/demo-content-mobile.svg" /><img src="assets/lab/demo-content.svg" alt="Content publishing | Illustrative workflow using synthetic data" width="100%" /></picture>
 
-A fictional brief becomes a reviewed draft. This is an illustrative sequence, separate from client work. [Explore the interactive companion source](interactive-lab/README.md).
+A fictional brief becomes a reviewed draft. This is an illustrative sequence, separate from client work.
 
 </details>
 
@@ -72,7 +72,7 @@ A fictional brief becomes a reviewed draft. This is an illustrative sequence, se
 
 <picture><source media="(max-width: 700px)" srcset="assets/lab/demo-inquiry-mobile.svg" /><img src="assets/lab/demo-inquiry.svg" alt="Client inquiry | Illustrative workflow using synthetic data" width="100%" /></picture>
 
-A fictional inquiry becomes a clear next step. This is an illustrative sequence, separate from client work. [Explore the interactive companion source](interactive-lab/README.md).
+A fictional inquiry becomes a clear next step. This is an illustrative sequence, separate from client work.
 
 </details>
 
