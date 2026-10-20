@@ -623,7 +623,7 @@ Associated with After Landing Services Inc.
 
 ## Full lifecycle website and digital systems delivery
 
-<picture><source media="(max-width: 700px)" srcset="assets/lab/skill-evidence-mobile.svg?v=delivery-20261020" /><img src="assets/lab/skill-evidence.svg?v=delivery-20261020" alt="Personal responsibility for the complete website lifecycle across Kian Teb, Danesh Production, Prestia Trade, Drago Pharma and Rivara Host" width="100%" /></picture>
+<picture><source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/kianisafa/kianisafa/c8471c382c3343f4426fe9755461ebfbe1b6094d/assets/lab/skill-evidence-mobile.svg" /><img src="https://raw.githubusercontent.com/kianisafa/kianisafa/c8471c382c3343f4426fe9755461ebfbe1b6094d/assets/lab/skill-evidence.svg" alt="Personal responsibility for the complete website lifecycle across Kian Teb, Danesh Production, Prestia Trade, Drago Pharma and Rivara Host" width="100%" /></picture>
 
 Across these websites, I personally handle the work from the initial business brief through launch and ongoing operation. My responsibilities span consultation and requirements, server selection and procurement, infrastructure setup, design and development, content publishing, SEO, system integrations and continuing technical support.
 
