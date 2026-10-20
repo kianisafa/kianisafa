@@ -1075,4 +1075,7 @@ I welcome contracts and long-term business collaborations in systems integration
 
 **[Connect on LinkedIn](https://www.linkedin.com/in/kianisafa/)** · **[Visit safakiani.com](https://safakiani.com/)**
 
+**[Make a payment in CAD](https://square.link/u/pVVYasde)**  
+One-time payments through Square. Enter the agreed amount and add a payment reference or invoice number at checkout.
+
 [Activity and professional interests on LinkedIn](https://www.linkedin.com/in/kianisafa/)
