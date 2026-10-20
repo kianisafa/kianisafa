@@ -299,32 +299,14 @@ Employment type: Freelance.
 
 
 <details>
-<summary><picture><source media="(max-width: 700px)" srcset="assets/record-06-mobile.svg" /><img src="assets/record-06.svg" alt="Pacificana Development | Commercial Construction Apprentice | September 2021 to May 2026" width="100%" /></picture> <sub>Open details</sub></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/record-06-mobile.svg" /><img src="assets/record-06.svg" alt="Pacificana Development | Commercial Construction Support | September 2021 to May 2026" width="100%" /></picture> <sub>Open details</sub></summary>
 
-**Pacificana Development | Commercial Construction Apprentice | September 2021 to May 2026**
+**Pacificana Development | Commercial Construction Support | September 2021 to May 2026**
 
 **Pacificana Development** · September 2021 to May 2026  
 Vancouver, BC
 
-Completed apprenticeship training within a commercial general contracting environment, gaining hands-on exposure to large-scale construction operations and professional project environments across Vancouver.
-
-
-Worked alongside experienced teams on commercial construction projects for major retail brands including Home Depot, RONA, and Sephora, while developing practical experience in communication, teamwork, workflow coordination, site operations, and professional construction standards.
-
-
-**Key contributions:**
-
-
-- Supported day-to-day activities across active commercial construction projects
-- Assisted teams with operational support and on-site coordination tasks
-- Gained hands-on exposure to workflow organization, project execution, and construction site operations
-- Contributed within fast-paced commercial project environments involving large retail and corporate brands
-- Developed practical experience in teamwork, communication, operational discipline, and professional work environments Focused on learning professional standards, operational structure, and real-world project coordination within commercial construction environments.
-
-Employment type: Apprenticeship.
-
-
-Location and work setting: Vancouver, British Columbia, Canada (On-site).
+Supported commercial construction work with Pacificana Development in Vancouver, contributing to on-site activities and team coordination.
 
 </details>
 
@@ -392,17 +374,9 @@ Employment type: Freelance.
 **SINA Hospital & Heart Center** · October 2019 to September 2021  
 Isfahan, Isfahan Province, Iran (On-site)
 
-Contributed photography and video documentation for Sina Hospital & Heart Center in Isfahan as part of my internship and hospital responsibilities.
+Contributed photography and video documentation for Sina Hospital & Heart Center as part of my internship and hospital responsibilities.
 
-
-**Key contributions:**
-
-
-- Provided photography for the hospital's visual documentation work.
-- Contributed filming and video documentation as part of the same work.
-
-Recognition: Received an official letter of appreciation dated April 12, 2022, acknowledging my photography and filming contributions.
-
+Recognition: Received a hospital letter of appreciation dated April 12, 2022, for this work.
 
 Employment type: Internship.
 
@@ -419,17 +393,9 @@ Employment type: Internship.
 **SINA Hospital & Heart Center** · October 2019 to September 2021  
 Isfahan, Isfahan Province, Iran (On-site)
 
-Participated in the Management and Business Committee at Sina Hospital & Heart Center in Isfahan over a two-year period.
+Participated in the Management and Business Committee at Sina Hospital & Heart Center as part of my internship and hospital responsibilities.
 
-
-**Key contributions:**
-
-
-- Took an active part in the committee's management and business activities.
-- Gained exposure to hospital administration, business operations, and coordination across departments.
-
-Recognition: Received an official hospital certificate dated April 12, 2022, confirming my active participation and the committee secretary's satisfaction with my contribution.
-
+Recognition: Received a hospital certificate dated April 12, 2022, recognizing my participation.
 
 Employment type: Internship.
 
@@ -446,18 +412,9 @@ Employment type: Internship.
 **SINA Hospital & Heart Center** · October 2019 to September 2021  
 Isfahan, Isfahan Province, Iran (On-site)
 
-Completed a two-year internship in the Information Technology Department at Sina Hospital & Heart Center in Isfahan, supporting technology operations in a healthcare environment.
+Completed a two-year internship in the Information Technology Department at Sina Hospital & Heart Center in Isfahan.
 
-
-**Key contributions:**
-
-
-- Assisted the IT team with computer systems, network equipment, and hospital software support.
-- Supported troubleshooting and day-to-day technical tasks.
-- Worked with departmental staff to complete assigned internship duties.
-
-Recognition: Received an official hospital certificate dated April 12, 2022, confirming completion of the internship and the department's satisfaction with my work.
-
+Recognition: Received a hospital certificate dated April 12, 2022, confirming satisfactory completion of the internship.
 
 Employment type: Internship.
 
@@ -474,18 +431,9 @@ Employment type: Internship.
 **SINA Hospital & Heart Center** · October 2019 to September 2021  
 Isfahan, Isfahan Province, Iran (On-site)
 
-Completed a two-year internship in the Supply Chain Department at Sina Hospital & Heart Center in Isfahan, supporting daily supply operations in a healthcare setting.
+Completed a two-year internship in the Supply Chain Department at Sina Hospital & Heart Center in Isfahan.
 
-
-**Key contributions:**
-
-
-- Assisted with procurement, inventory, and supply coordination activities.
-- Supported departmental staff with assigned operational tasks.
-- Gained practical experience in the coordination of hospital supplies and resources.
-
-Recognition: Received an official hospital certificate dated April 12, 2022, recognizing satisfactory completion of my internship duties.
-
+Recognition: Received a hospital certificate dated April 12, 2022, confirming satisfactory completion of the internship.
 
 Employment type: Internship.
 
