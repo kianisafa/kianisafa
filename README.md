@@ -41,24 +41,9 @@
 
 <a href="#workflow-demos"><picture><source media="(max-width: 700px)" srcset="assets/lab/control-room-mobile.svg" /><img src="assets/lab/control-room.svg" alt="Systems Lab | Explore a conceptual control room" width="100%" /></picture></a>
 
-Explore a conceptual model of connected websites, information, workflows, people and operations. The working example and animated illustrations below use fictional records. They do not reproduce client systems or connect to an AI service.
+Explore a conceptual model of connected websites, information, workflows, people and operations. The animated illustrations below use fictional records. They do not reproduce client systems or connect to an AI service.
 
 <a name="workflow-demos"></a>
-
-### Working example: Order Workflow
-
-<a href="demos/order-workflow/"><picture><source media="(max-width: 700px)" srcset="assets/studio/order-workflow-mobile.svg" /><img src="assets/studio/order-workflow.svg" alt="Order Workflow | A runnable, independent example with fictional orders" width="100%" /></picture></a>
-
-An independent example that checks required fields, flags duplicate order IDs and prepares follow-up tasks. Explore a mixed sample, edit fictional inputs and export a task report. The rules run locally and do not connect to client systems or an AI service.
-
-**[Explore the working example](demos/order-workflow/)** · [Read the processing logic](demos/order-workflow/engine.js) · [View the tests](demos/order-workflow/engine.test.js)
-
-<details>
-<summary>Run it locally</summary>
-
-Download [index.html](demos/order-workflow/index.html) using GitHub's download button, then open it in your browser. The file is self-contained and needs no installation. GitHub shows the source rather than executing it inside this page.
-
-</details>
 
 ### Animated workflow illustrations
 
