@@ -1,9 +1,9 @@
-<p align="center"><picture><source media="(max-width: 700px)" srcset="assets/hero-mobile.svg" /><img src="assets/hero.svg" alt="Safa Kiani | Systems Integration and AI Workflow Automation | Technical Product Manager" width="100%" /></picture></p>
+<p align="center"><picture><source media="(max-width: 700px)" srcset="assets/studio/hero-mobile.svg" /><img src="assets/studio/hero.svg" alt="Safa Kiani | Systems Integration and AI Workflow Automation | Technical Product Manager" width="100%" /></picture></p>
 
 <p align="center"><strong>Coquitlam, British Columbia, Canada</strong> · He/Him<br />
-<a href="https://www.linkedin.com/in/kianisafa/">LinkedIn</a> · <a href="https://safakiani.com/">Personal website</a> · <a href="#connect">Work with me</a></p>
+<a href="https://www.linkedin.com/in/kianisafa/">LinkedIn</a> · <a href="https://safakiani.com/">Personal website</a> · <a href="#services">Work with me</a></p>
 
-<p align="center"><a href="#featured">Featured</a> · <a href="#about">About</a> · <a href="#experience">Experience</a> · <a href="#projects">Projects</a> · <a href="#skills">Skills</a> · <a href="#education">Education</a> · <a href="#licenses-and-certifications">Credentials</a></p>
+<p align="center"><a href="#featured">Featured</a> · <a href="#services">Services</a> · <a href="#case-studies">Case studies</a> · <a href="#about">About</a> · <a href="#experience">Experience</a> · <a href="#projects">Projects</a> · <a href="#skills">Skills</a> · <a href="#education">Education</a> · <a href="#licenses-and-certifications">Credentials</a></p>
 
 <a name="featured"></a>
 
@@ -12,21 +12,24 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://daneshproduction.ca/"><picture><source media="(max-width: 700px)" srcset="assets/danesh-mobile.svg" /><img src="assets/danesh.svg" alt="Danesh Production | Website Development and Digital Operations" width="100%" /></picture></a>
+<a href="https://daneshproduction.ca/"><picture><source media="(max-width: 700px)" srcset="assets/studio/featured-danesh-mobile.svg" /><img src="assets/studio/featured-danesh.svg" alt="Danesh Production | Website Development and Digital Operations" width="100%" /></picture></a>
 <p>Designed, developed, and launched the Danesh Production website through After Landing Services Inc. Manage hosting, content, SEO, and ongoing technical support, with Google Workspace and Google Voice supporting company communications.</p>
+<p><a href="#case-danesh">Read case study</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://kiantebmed.com/"><picture><source media="(max-width: 700px)" srcset="assets/kian-teb-mobile.svg" /><img src="assets/kian-teb.svg" alt="Kian Teb | E-commerce Development and Digital Operations" width="100%" /></picture></a>
+<a href="https://kiantebmed.com/"><picture><source media="(max-width: 700px)" srcset="assets/studio/featured-kian-teb-mobile.svg" /><img src="assets/studio/featured-kian-teb.svg" alt="Kian Teb | E-commerce Development and Digital Operations" width="100%" /></picture></a>
 <p>Designed and developed Kian Teb's online store. Lead ongoing content, SEO, payment integrations, order workflows, and technical operations remotely from Canada, coordinating digital processes with the fulfilment team in Iran.</p>
+<p><a href="#case-kian-teb">Read case study</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://prestiatrade.com/"><picture><source media="(max-width: 700px)" srcset="assets/prestia-mobile.svg" /><img src="assets/prestia.svg" alt="Prestia Trade | Technical Product Management and Website Development" width="100%" /></picture></a>
+<a href="https://prestiatrade.com/"><picture><source media="(max-width: 700px)" srcset="assets/studio/featured-prestia-mobile.svg" /><img src="assets/studio/featured-prestia.svg" alt="Prestia Trade | Technical Product Management and Website Development" width="100%" /></picture></a>
 <p>Guide product requirements, website structure, user journeys, and technical delivery for Prestia Trade's public website. Connect business needs with practical digital improvements, with a focus on usability, reliability, and information quality.</p>
+<p><a href="#case-prestia">Read case study</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/kianisafa"><picture><source media="(max-width: 700px)" srcset="assets/github-mobile.svg" /><img src="assets/github.svg" alt="GitHub | Public Code and Development" width="100%" /></picture></a>
+<a href="https://github.com/kianisafa"><picture><source media="(max-width: 700px)" srcset="assets/studio/featured-github-mobile.svg" /><img src="assets/studio/featured-github.svg" alt="GitHub | Public Code and Development" width="100%" /></picture></a>
 <p>Explore my public GitHub profile, including publicly available code, projects, and development work.</p>
 </td>
 </tr>
@@ -52,6 +55,84 @@ Across these projects, I am developing AI integrations and automation to reduce 
 I welcome contracts and long-term business collaborations in systems integration, workflow automation, and digital operations, as well as relevant product and systems roles.
 
 **Top skills:** Systems Integration · Workflow Automation · Product Management · Process Optimization · Web Development
+
+<a name="services"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/studio/section-services-mobile.svg" /><img src="assets/studio/section-services.svg" alt="Ways to work together" width="100%" /></picture>
+
+I support businesses with clearly scoped projects and continuing service arrangements. The scope and deliverables are agreed around the needs of each engagement.
+
+### <picture><source media="(max-width: 700px)" srcset="assets/studio/service-systems-integration-mobile.svg" /><img src="assets/studio/service-systems-integration.svg" alt="Systems Integration" width="100%" /></picture>
+
+**Focus:** Connect websites, business applications and company communications into practical, manageable workflows.
+
+**Typical deliverables:** A system and requirements map, configured connections, validation checks, and handover documentation.
+
+[Discuss systems integration on LinkedIn](https://www.linkedin.com/in/kianisafa/)
+
+### <picture><source media="(max-width: 700px)" srcset="assets/studio/service-workflow-automation-mobile.svg" /><img src="assets/studio/service-workflow-automation.svg" alt="Workflow Automation" width="100%" /></picture>
+
+**Focus:** Design repeatable workflows with clear inputs, decisions, responsibilities and review points. Develop AI-assisted steps where they fit the work.
+
+**Typical deliverables:** A workflow specification, automation setup, testing, exception handling, and operating guidance.
+
+[Discuss workflow automation on LinkedIn](https://www.linkedin.com/in/kianisafa/)
+
+### <picture><source media="(max-width: 700px)" srcset="assets/studio/service-digital-operations-mobile.svg" /><img src="assets/studio/service-digital-operations.svg" alt="Digital Operations" width="100%" /></picture>
+
+**Focus:** Build, launch and maintain business websites and e-commerce platforms, with ongoing content, SEO and technical support.
+
+**Typical deliverables:** Website delivery or improvements, hosting configuration, content and SEO updates, and an agreed support plan.
+
+[Discuss digital operations on LinkedIn](https://www.linkedin.com/in/kianisafa/)
+
+<a name="case-studies"></a>
+
+## <picture><source media="(max-width: 700px)" srcset="assets/studio/section-case-studies-mobile.svg" /><img src="assets/studio/section-case-studies.svg" alt="Selected case studies" width="100%" /></picture>
+
+A closer look at selected public work. The illustrations are conceptual and do not reproduce client systems or internal interfaces.
+
+<a name="case-danesh"></a>
+
+### <picture><source media="(max-width: 700px)" srcset="assets/studio/case-danesh-mobile.svg" /><img src="assets/studio/case-danesh.svg" alt="Danesh Production case study" width="100%" /></picture>
+
+**Challenge:** Establish a public website and maintain the digital services supporting an event production business.
+
+**My contribution:** Designed, developed and launched the website, including server and hosting setup. Continue to manage content, SEO and technical support through After Landing Services Inc. Set up and administer Google Workspace and Google Voice for company communications.
+
+**Delivery:** A launched website with continuing technical maintenance, content improvements and communications administration.
+
+**Engagement:** Continuing client support.
+
+[Visit the public website](https://daneshproduction.ca/)
+
+<a name="case-kian-teb"></a>
+
+### <picture><source media="(max-width: 700px)" srcset="assets/studio/case-kian-teb-mobile.svg" /><img src="assets/studio/case-kian-teb.svg" alt="Kian Teb case study" width="100%" /></picture>
+
+**Challenge:** Bring the online shopping journey, payment features and order processes together while coordinating digital operations remotely.
+
+**My contribution:** Designed and developed the storefront and manage product content, landing pages, SEO, payment integrations and order workflows. Coordinate digital processes from Canada with the team in Iran responsible for packaging and dispatch.
+
+**Delivery:** An operating online store with ongoing content, product launch support, checkout improvements and technical maintenance.
+
+**Engagement:** Ongoing digital and e-commerce operations.
+
+[Visit the public website](https://kiantebmed.com/)
+
+<a name="case-prestia"></a>
+
+### <picture><source media="(max-width: 700px)" srcset="assets/studio/case-prestia-mobile.svg" /><img src="assets/studio/case-prestia.svg" alt="Prestia Trade case study" width="100%" /></picture>
+
+**Challenge:** Translate business needs into a clear, usable public website and actionable product work.
+
+**My contribution:** Guide requirements, website structure, user journeys and technical delivery as Technical Product Manager, with attention to usability, reliability and information quality.
+
+**Delivery:** Product requirements, website planning and coordinated technical delivery focused on prestiatrade.com.
+
+**Engagement:** Ongoing public website and product work.
+
+[Visit the public website](https://prestiatrade.com/)
 
 <a name="experience"></a>
 
@@ -403,7 +484,7 @@ Seven project entries from my LinkedIn portfolio. Prestia Trade appears separate
 
 
 <details>
-<summary><picture><source media="(max-width: 700px)" srcset="assets/record-13-mobile.svg" /><img src="assets/record-13.svg" alt="Kian Teb | E-commerce Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/studio/project-13-mobile.svg" /><img src="assets/studio/project-13.svg" alt="Kian Teb | E-commerce Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
 
 **Kian Teb | E-commerce Development &amp; Digital Operations**
 
@@ -430,7 +511,7 @@ Associated with Kiantebmed
 
 
 <details>
-<summary><picture><source media="(max-width: 700px)" srcset="assets/record-14-mobile.svg" /><img src="assets/record-14.svg" alt="Disruptive Technologists | Google Ad Grants College Project" width="100%" /></picture> <sub>Open details</sub></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/studio/project-14-mobile.svg" /><img src="assets/studio/project-14.svg" alt="Disruptive Technologists | Google Ad Grants College Project" width="100%" /></picture> <sub>Open details</sub></summary>
 
 **Disruptive Technologists | Google Ad Grants College Project**
 
@@ -453,7 +534,7 @@ Associated with Vancouver Community College (VCC)
 
 
 <details>
-<summary><picture><source media="(max-width: 700px)" srcset="assets/record-15-mobile.svg" /><img src="assets/record-15.svg" alt="IGWDC | Azar Oil Field Photography &amp; Documentation" width="100%" /></picture> <sub>Open details</sub></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/studio/project-15-mobile.svg" /><img src="assets/studio/project-15.svg" alt="IGWDC | Azar Oil Field Photography &amp; Documentation" width="100%" /></picture> <sub>Open details</sub></summary>
 
 **IGWDC | Azar Oil Field Photography &amp; Documentation**
 
@@ -474,7 +555,7 @@ Recognition: Received an official letter of appreciation from Iranian Gas & Wate
 
 
 <details>
-<summary><picture><source media="(max-width: 700px)" srcset="assets/record-16-mobile.svg" /><img src="assets/record-16.svg" alt="Kian Teb | Store &amp; Product Photography" width="100%" /></picture> <sub>Open details</sub></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/studio/project-16-mobile.svg" /><img src="assets/studio/project-16.svg" alt="Kian Teb | Store &amp; Product Photography" width="100%" /></picture> <sub>Open details</sub></summary>
 
 **Kian Teb | Store &amp; Product Photography**
 
@@ -494,7 +575,7 @@ Store overview video: https://www.youtube.com/watch?v=Wdtdxwq6vWQ
 
 
 <details>
-<summary><picture><source media="(max-width: 700px)" srcset="assets/record-17-mobile.svg" /><img src="assets/record-17.svg" alt="Danesh Production | Website Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/studio/project-17-mobile.svg" /><img src="assets/studio/project-17.svg" alt="Danesh Production | Website Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
 
 **Danesh Production | Website Development &amp; Digital Operations**
 
@@ -521,7 +602,7 @@ Associated with After Landing Services Inc.
 
 
 <details>
-<summary><picture><source media="(max-width: 700px)" srcset="assets/record-18-mobile.svg" /><img src="assets/record-18.svg" alt="Drago Pharma | Website Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/studio/project-18-mobile.svg" /><img src="assets/studio/project-18.svg" alt="Drago Pharma | Website Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
 
 **Drago Pharma | Website Development &amp; Digital Operations**
 
@@ -547,7 +628,7 @@ Associated with After Landing Services Inc.
 
 
 <details>
-<summary><picture><source media="(max-width: 700px)" srcset="assets/record-19-mobile.svg" /><img src="assets/record-19.svg" alt="Rivara Host | Website Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
+<summary><picture><source media="(max-width: 700px)" srcset="assets/studio/project-19-mobile.svg" /><img src="assets/studio/project-19.svg" alt="Rivara Host | Website Development &amp; Digital Operations" width="100%" /></picture> <sub>Open details</sub></summary>
 
 **Rivara Host | Website Development &amp; Digital Operations**
 
